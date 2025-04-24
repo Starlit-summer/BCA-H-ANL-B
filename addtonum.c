@@ -4,6 +4,7 @@ void main()
 {
 int a=10,b=15,c;
 c=a+b;
+clrscr();
 printf("The value of C = %d",c);
-getch();
+getch();  //changes made in the code//
 }
